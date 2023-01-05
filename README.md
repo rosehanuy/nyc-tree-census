@@ -37,9 +37,9 @@ According to the USDA [Urban Tree Database](https://www.fs.usda.gov/psw/publicat
 
 My [code](https://github.com/rosehanuy/nyc-tree-census/blob/main/carbon_storage.ipynb) for completing this process produced the following results.
 
-![barchart2](/images/co2_barchart_resize.png)
+![barchart2](/images/co2_barchart_final.png)
 
-![piechart](/images/co2_piecharts_resize.png)
+![piechart](/images/co2_piecharts_final.png)
 
 * The three species that showed the greatest increase in CO2 storage over the 20 year period were Pin Oak, London Plane, and Honeylocust. 
 * In both years, London Plane trees stored the most CO2. This species stored 1.02x10^8 kg of CO2 in 1995 and 2.57x10^8 kg in 2015. 
