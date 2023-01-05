@@ -25,7 +25,7 @@ I then identified the species that had most of the city's largest trees. The res
 - Sycamore Maple, Ginkgo, and Sugar Maple appear only in 1995.
 - They are replaced by Japanese Zelkova, Green Ash and Callery Pear in 2015.
 
-![barchart](/images/species_counts_resize2.png)
+![barchart](/images/species_counts_resize_3.png)
 
 The next step was to calculate the CO2 stored by these species each year.
 
@@ -37,9 +37,9 @@ According to the USDA [Urban Tree Database](https://www.fs.usda.gov/psw/publicat
 
 My [code](https://github.com/rosehanuy/nyc-tree-census/blob/main/carbon_storage.ipynb) for completing this process produced the following results.
 
-![barchart2](/images/co2_barchart.png)
+![barchart2](/images/co2_barchart_resize.png)
 
-![piechart](/images/co2_piecharts.png)
+![piechart](/images/co2_piecharts_resize.png)
 
 * The three species that showed the greatest increase in CO2 storage over the 20 year period were Pin Oak, London Plane, and Honeylocust. 
 * In both years, Londonplane trees stored the most CO2. This species stored 1.02x10^8 kg of CO2 in 1995 and 2.57x10^8 kg in 2015. 
