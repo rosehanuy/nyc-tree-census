@@ -25,7 +25,7 @@ I then identified the species that had most of the city's largest trees. The res
 - Sycamore Maple, Ginkgo, and Sugar Maple appear only in 1995.
 - They are replaced by Japanese Zelkova, Green Ash and Callery Pear in 2015.
 
-![barchart](/images/species_counts.png)
+![barchart](/images/species_counts_resize.png)
 
 The next step was to calculate the CO2 stored by these species each year.
 
