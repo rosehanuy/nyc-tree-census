@@ -42,5 +42,5 @@ My [code](https://github.com/rosehanuy/nyc-tree-census/blob/main/carbon_storage.
 ![piechart](/images/co2_piecharts_resize.png)
 
 * The three species that showed the greatest increase in CO2 storage over the 20 year period were Pin Oak, London Plane, and Honeylocust. 
-* In both years, Londonplane trees stored the most CO2. This species stored 1.02x10^8 kg of CO2 in 1995 and 2.57x10^8 kg in 2015. 
-* Interestingly, all threes species of Maple - Red Maple, Silver Maple, and Norway Maple - diminished in terms of their relative share of CO2 sequestered in 2015 compared to 1995. The bar chart above shows that these three species also all diminished in terms of absolute number of individuals.
+* In both years, London Plane trees stored the most CO2. This species stored 1.02x10^8 kg of CO2 in 1995 and 2.57x10^8 kg in 2015. 
+* Interestingly, all three species of Maple - Red Maple, Silver Maple, and Norway Maple - diminished in terms of their relative share of CO2 sequestered in 2015 compared to 1995. These three species also all diminished in terms of absolute number of individuals, as shown in the initial barchart.
